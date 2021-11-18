@@ -5,4 +5,4 @@
 # print('Животные, привезённые из старого зоопарка:', new_zoo[2])
 # print('Последнее животное, привезённое из старого зоопарка -', new_zoo[2][2])
 # print('Количество животных в новом зоопарке -', len(new_zoo)-1 +  len(new_zoo[2]))
-help(dict)
+print("MLKMKLKM JKFNJKANFJKNASJKFNJKDNF")
