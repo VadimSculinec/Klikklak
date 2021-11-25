@@ -1,6 +1,0 @@
-print("Valera")
-print("PostTrade")
-print("VASIA")
-print("PIDER")
-print("Debik")
-
